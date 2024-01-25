@@ -6,7 +6,7 @@ function DogCard(props) {
         <>
         <h2 style={
             {
-                fontSize: '15px', 
+                fontSize: '20px', 
                 color: 'blue'
             }
         }>
