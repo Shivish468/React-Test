@@ -1,7 +1,7 @@
 function Image( props ) {
     return ( 
         <div className="image-box">
-            <img src={props.src} />
+            <img alt="" src={props.src} />
         </div>
     );    
 }
