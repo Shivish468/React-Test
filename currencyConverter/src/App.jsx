@@ -51,11 +51,11 @@ function App() {
                   </div>
                     <div className="relative w-full h-0.5">
                       <button
-                      onClick={swap}
+                        onClick={swap}
                         type="button"
                         className="absolute left-1/2 -translate-x-1/2 -translate-y-1/2 border-2 border-white rounded-md bg-blue-600 text-white px-2 py-0.5"
                       >
-                        swap
+                      swap
                       </button>
                     </div>
                       <div className="w-full mt-1 mb-4">
